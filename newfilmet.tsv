@@ -1,0 +1,449 @@
+Run	AvgSpotLen	Bases	Organism	geo_loc_name_country	BioProject	Collection_date	Month	Library.Name	Location	collected_by
+SRR17041372	266	23376650	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-10	11	K030841	Gauteng	National Health Laboratory Service
+SRR17041373	279	61894161	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-09	11	K030840	Gauteng	National Health Laboratory Service
+SRR17041374	266	49927232	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-11	11	K030839	Gauteng	National Health Laboratory Service
+SRR17041375	267	83079781	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-11	11	K030838	Gauteng	National Health Laboratory Service
+SRR17041377	277	89147655	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-12	11	K030836	Gauteng	National Health Laboratory Service
+SRR17014883	297	20612770	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-07	11	K027855	KwaZulu-Natal	National Health Laboratory Service
+SRR17014914	315	87084903	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-08	11	K027852	KwaZulu-Natal	National Health Laboratory Service
+SRR17014925	287	25966297	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-07	11	K027851	KwaZulu-Natal	National Health Laboratory Service
+SRR17014926	277	16635415	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-28	10	K027895	KwaZulu-Natal	National Health Laboratory Service
+SRR17014927	254	21522342	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-28	10	K027894	KwaZulu-Natal	National Health Laboratory Service
+SRR17014928	253	16349015	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-30	10	K027893	KwaZulu-Natal	National Health Laboratory Service
+SRR17014932	270	21607514	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-28	10	K027889	KwaZulu-Natal	National Health Laboratory Service
+SRR17014935	321	92075993	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-28	10	K027886	KwaZulu-Natal	National Health Laboratory Service
+SRR17014936	308	23386255	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-07	11	K027850	KwaZulu-Natal	National Health Laboratory Service
+SRR17014937	250	18665018	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-31	10	K027885	KwaZulu-Natal	National Health Laboratory Service
+SRR17014938	291	37194623	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-30	10	K027884	KwaZulu-Natal	National Health Laboratory Service
+SRR17014940	255	21984211	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-28	10	K027882	KwaZulu-Natal	National Health Laboratory Service
+SRR17014941	317	47594615	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-28	10	K027881	KwaZulu-Natal	National Health Laboratory Service
+SRR17014942	316	77509424	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-28	10	K027880	KwaZulu-Natal	National Health Laboratory Service
+SRR17014945	320	49640478	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-29	10	K027877	KwaZulu-Natal	National Health Laboratory Service
+SRR17014946	278	26080126	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-05	11	K027876	KwaZulu-Natal	National Health Laboratory Service
+SRR17014947	329	25404003	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-09	11	K027849	KwaZulu-Natal	National Health Laboratory Service
+SRR17014951	268	18081840	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-06	11	K027872	KwaZulu-Natal	National Health Laboratory Service
+SRR17014954	258	19218323	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-07	11	K027869	KwaZulu-Natal	National Health Laboratory Service
+SRR17014957	297	17800698	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-05	11	K027866	KwaZulu-Natal	National Health Laboratory Service
+SRR17014959	319	51300178	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-06	11	K027865	KwaZulu-Natal	National Health Laboratory Service
+SRR17014963	293	36045382	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-07	11	K027861	KwaZulu-Natal	National Health Laboratory Service
+SRR17014969	310	22324162	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-08	11	K027847	KwaZulu-Natal	National Health Laboratory Service
+SRR17088900	326	231299941	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-19	11	K032259	KwaZulu-Natal	National Health Laboratory Service
+SRR17088901	326	196076725	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-23	11	K032292	KwaZulu-Natal	National Health Laboratory Service
+SRR17088903	326	59592345	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-23	11	K032290	KwaZulu-Natal	National Health Laboratory Service
+SRR17088906	324	46741194	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-23	11	K032287	KwaZulu-Natal	National Health Laboratory Service
+SRR17088908	312	49033049	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-23	11	K032285	KwaZulu-Natal	National Health Laboratory Service
+SRR17088910	327	145859044	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-23	11	K032284	KwaZulu-Natal	National Health Laboratory Service
+SRR17088912	324	241171688	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-18	11	K032282	KwaZulu-Natal	National Health Laboratory Service
+SRR17090366	311	27083960	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-21	10	K027445	Gauteng	National Health Laboratory Service
+SRR17090367	325	25314680	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-22	10	K027444	Gauteng	National Health Laboratory Service
+SRR17090370	326	37310427	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-22	10	K027441	Gauteng	National Health Laboratory Service
+SRR17090372	322	72655072	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-25	10	K027439	KwaZulu-Natal	National Health Laboratory Service
+SRR17090373	316	78192393	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-22	10	K027438	KwaZulu-Natal	National Health Laboratory Service
+SRR17090378	324	125048312	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-21	10	K027451	Gauteng	National Health Laboratory Service
+SRR17090383	312	29836158	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-18	10	K027446	Gauteng	National Health Laboratory Service
+SRR17090385	325	67196472	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-20	10	K027436	KwaZulu-Natal	National Health Laboratory Service
+SRR17006638	429	82287181	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-04	10	K026569	KwaZulu-Natal	National Health Laboratory service
+SRR17006640	427	28892834	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-30	09	K026559	KwaZulu-Natal	National Health Laboratory service
+SRR17006643	431	86868338	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-04	10	K026565	KwaZulu-Natal	National Health Laboratory service
+SRR17006646	460	97406682	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-07	10	K026616	KwaZulu-Natal	National Health Laboratory service
+SRR17006647	424	94000574	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-06	10	K026615	KwaZulu-Natal	National Health Laboratory service
+SRR17006648	424	99664845	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-05	10	K026614	KwaZulu-Natal	National Health Laboratory service
+SRR17006649	430	78672685	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-04	10	K026613	KwaZulu-Natal	National Health Laboratory service
+SRR17006652	440	110175075	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-11	10	K026610	KwaZulu-Natal	National Health Laboratory service
+SRR17006655	446	51759793	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-10	10	K026608	KwaZulu-Natal	National Health Laboratory service
+SRR17006658	427	62425785	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-08	10	K026605	KwaZulu-Natal	National Health Laboratory service
+SRR17006660	430	106702851	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-06	10	K026603	KwaZulu-Natal	National Health Laboratory service
+SRR17006664	419	42128764	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-05	10	K026599	KwaZulu-Natal	National Health Laboratory service
+SRR17006665	432	432709	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-05	10	K026582	KwaZulu-Natal	National Health Laboratory service
+SRR17006667	429	55817195	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-28	09	K026787	Gauteng	National Health Laboratory service
+SRR17006668	433	92035554	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-28	09	K026786	Gauteng	National Health Laboratory service
+SRR17006671	429	110874176	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-27	09	K026783	Gauteng	National Health Laboratory service
+SRR17006673	434	118042544	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-17	09	K026781	Gauteng	University of Pretoria
+SRR17006676	426	114389447	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-05	10	K026581	KwaZulu-Natal	National Health Laboratory service
+SRR17006677	466	27713766	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-15	09	K026778	Gauteng	University of Pretoria
+SRR17006680	434	81758887	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-15	09	K026775	Mpumalanga	University of Pretoria
+SRR17006681	424	111382972	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-15	09	K026774	Mpumalanga	University of Pretoria
+SRR17006682	431	117709474	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-15	09	K026773	Mpumalanga	University of Pretoria
+SRR17006685	426	107831650	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-15	09	K026770	Gauteng	University of Pretoria
+SRR17006686	424	100404893	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-16	09	K026769	Gauteng	University of Pretoria
+SRR17006687	447	116360448	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-27	09	K026580	KwaZulu-Natal	National Health Laboratory service
+SRR17006689	418	82809980	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-23	09	K026680	Eastern Cape	National Health Laboratory service
+SRR17006691	418	10898367	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-28	09	K026571	KwaZulu-Natal	National Health Laboratory service
+SRR17006692	411	88065892	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-23	09	K026678	Eastern Cape	National Health Laboratory service
+SRR17006693	413	109844125	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-04	10	K026677	Eastern Cape	National Health Laboratory service
+SRR17006694	420	69053109	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-04	10	K026676	Eastern Cape	National Health Laboratory service
+SRR17006697	387	60236458	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-05	10	K026673	Eastern Cape	National Health Laboratory service
+SRR17006698	412	94724886	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-04	10	K026672	Eastern Cape	National Health Laboratory service
+SRR17006708	409	94583910	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-13	10	K026663	Eastern Cape	National Health Laboratory service
+SRR17006710	421	92313426	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-13	10	K026661	Eastern Cape	National Health Laboratory service
+SRR17006717	424	19644899	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-08	10	K026654	Eastern Cape	National Health Laboratory service
+SRR17006719	413	82969870	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-08	10	K026652	Eastern Cape	National Health Laboratory service
+SRR17006720	418	72872600	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-08	10	K026651	Eastern Cape	National Health Laboratory service
+SRR17006722	421	29169561	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-07	10	K026649	Eastern Cape	National Health Laboratory service
+SRR17006725	427	103800385	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-06	10	K026647	Eastern Cape	National Health Laboratory service
+SRR17006731	421	115003072	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-05	10	K026598	KwaZulu-Natal	National Health Laboratory service
+SRR17006736	450	30263877	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-08	10	K026593	KwaZulu-Natal	National Health Laboratory service
+SRR17006738	430	102831462	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-07	10	K026591	KwaZulu-Natal	National Health Laboratory service
+SRR17006746	427	55513553	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-06	10	K026584	KwaZulu-Natal	National Health Laboratory service
+SRR17006748	418	4363805	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-15	10	K026902	KwaZulu-Natal	Ampath
+SRR17006749	437	128968724	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-30	09	K026793	Gauteng	National Health Laboratory service
+SRR17006751	425	32866026	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-30	09	K026791	Gauteng	National Health Laboratory service
+SRR17006752	444	4089476	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-30	09	K026790	Gauteng	National Health Laboratory service
+SRR17006753	428	110435519	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-28	09	K026789	Gauteng	National Health Laboratory service
+SRR17006761	421	62686986	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-23	09	K026718	Eastern Cape	National Health Laboratory service
+SRR17006763	416	56256302	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-23	09	K026716	Eastern Cape	National Health Laboratory service
+SRR17006768	449	111637868	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-24	09	K026711	Eastern Cape	National Health Laboratory service
+SRR17006769	416	97357255	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026710	Eastern Cape	National Health Laboratory service
+SRR17006771	429	155231453	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-28	09	K026574	KwaZulu-Natal	National Health Laboratory service
+SRR17006772	419	61388646	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026708	Eastern Cape	National Health Laboratory service
+SRR17006773	413	118611748	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-23	09	K026707	Eastern Cape	National Health Laboratory service
+SRR17006778	430	71413652	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-07	10	K026642	Eastern Cape	National Health Laboratory service
+SRR17006780	296	1382353	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-04	10	K026640	Eastern Cape	National Health Laboratory service
+SRR17006783	434	90891956	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-12	10	K026638	Eastern Cape	National Health Laboratory service
+SRR17006785	435	34782569	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-11	10	K026636	Eastern Cape	National Health Laboratory service
+SRR17006787	434	96688405	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-11	10	K026634	Eastern Cape	National Health Laboratory service
+SRR17006791	425	45144715	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-11	10	K026630	Eastern Cape	National Health Laboratory service
+SRR17006793	434	96194576	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-04	10	K026566	KwaZulu-Natal	National Health Laboratory service
+SRR17006795	424	25889130	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-06	10	K026627	KwaZulu-Natal	National Health Laboratory service
+SRR17006797	426	29304333	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-06	10	K026625	KwaZulu-Natal	National Health Laboratory service
+SRR17006798	430	77590755	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-04	10	K026624	KwaZulu-Natal	National Health Laboratory service
+SRR17006799	405	58151305	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-11	10	K026623	KwaZulu-Natal	National Health Laboratory service
+SRR17006800	412	35937424	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-11	10	K026622	KwaZulu-Natal	National Health Laboratory service
+SRR17006804	410	9764184	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-16	09	K026765	Gauteng	University of Pretoria
+SRR17006805	435	99131658	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-16	09	K026764	Gauteng	University of Pretoria
+SRR17006807	428	117020729	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-16	09	K026762	Gauteng	University of Pretoria
+SRR17006817	428	44198377	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-16	09	K026754	Gauteng	University of Pretoria
+SRR17006819	447	102704030	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-17	09	K026752	Gauteng	University of Pretoria
+SRR17006820	422	63747210	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-17	09	K026751	Gauteng	University of Pretoria
+SRR17006821	436	90905919	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-17	09	K026750	Gauteng	University of Pretoria
+SRR17006824	422	35846694	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-18	09	K026748	Gauteng	University of Pretoria
+SRR17006825	426	115827167	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-18	09	K026747	Gauteng	University of Pretoria
+SRR17006830	429	80939629	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-20	09	K026742	Gauteng	University of Pretoria
+SRR17006834	429	104838477	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-28	09	K026577	KwaZulu-Natal	National Health Laboratory service
+SRR17006835	422	59965823	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026738	Gauteng	University of Pretoria
+SRR17006836	422	47506813	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-26	09	K026737	Gauteng	University of Pretoria
+SRR17006839	215	277468	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-27	09	K026734	Gauteng	University of Pretoria
+SRR17006842	423	93166233	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-29	09	K026731	Gauteng	University of Pretoria
+SRR17006843	418	98821104	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-29	09	K026730	Gauteng	University of Pretoria
+SRR17006846	419	89091835	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-29	09	K026728	Eastern Cape	National Health Laboratory service
+SRR17006848	416	81253224	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026726	Eastern Cape	National Health Laboratory service
+SRR17006849	422	74443909	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026725	Eastern Cape	National Health Laboratory service
+SRR17006850	427	28636526	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-23	09	K026702	Eastern Cape	National Health Laboratory service
+SRR17006854	439	40892312	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-27	09	K026573	KwaZulu-Natal	National Health Laboratory service
+SRR17006855	411	27738480	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-23	09	K026698	Eastern Cape	National Health Laboratory service
+SRR17006857	419	60439641	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-23	09	K026696	Eastern Cape	National Health Laboratory service
+SRR17006863	415	57656928	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026690	Eastern Cape	National Health Laboratory service
+SRR17006869	418	89476697	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026685	Eastern Cape	National Health Laboratory service
+SRR17006871	420	87049034	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-21	09	K026683	Eastern Cape	National Health Laboratory service
+SRR17006862	420	63987942	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-23	09	K026691	Eastern Cape	National Health Laboratory service
+SRR17006724	417	30058098	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-06	10	K026648	Eastern Cape	National Health Laboratory service
+SRR17006754	413	65030191	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026724	Eastern Cape	National Health Laboratory service
+SRR17006760	426	29218058	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-28	09	K026575	KwaZulu-Natal	National Health Laboratory service
+SRR17006858	418	106679575	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-27	09	K026695	Eastern Cape	National Health Laboratory service
+SRR17006866	412	104755230	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-23	09	K026688	Eastern Cape	National Health Laboratory service
+SRR17006639	432	86092862	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-29	09	K026560	KwaZulu-Natal	National Health Laboratory service
+SRR17006651	427	177911	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-11	10	K026611	KwaZulu-Natal	National Health Laboratory service
+SRR17006669	428	64861479	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-28	09	K026785	Gauteng	National Health Laboratory service
+SRR17006695	414	90140889	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-04	10	K026675	Eastern Cape	National Health Laboratory service
+SRR17006696	411	63609966	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-05	10	K026674	Eastern Cape	National Health Laboratory service
+SRR17006702	431	94454700	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-27	09	K026570	KwaZulu-Natal	National Health Laboratory service
+SRR17006705	423	112020159	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-05	10	K026666	Eastern Cape	National Health Laboratory service
+SRR17006715	416	52024783	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-11	10	K026656	Eastern Cape	National Health Laboratory service
+SRR17006718	415	85682913	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-08	10	K026653	Eastern Cape	National Health Laboratory service
+SRR17006745	418	18108090	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-06	10	K026585	KwaZulu-Natal	National Health Laboratory service
+SRR17006750	425	115455388	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-28	09	K026792	Gauteng	National Health Laboratory service
+SRR17006756	434	125336134	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-23	09	K026722	Eastern Cape	National Health Laboratory service
+SRR17006758	422	71412955	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-23	09	K026720	Eastern Cape	National Health Laboratory service
+SRR17006762	416	87200982	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-23	09	K026717	Eastern Cape	National Health Laboratory service
+SRR17006775	410	14657969	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026705	Eastern Cape	National Health Laboratory service
+SRR17006777	418	74340685	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-23	09	K026703	Eastern Cape	National Health Laboratory service
+SRR17006788	434	87560543	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-09	10	K026633	Eastern Cape	National Health Laboratory service
+SRR17006789	418	20076453	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-11	10	K026632	Eastern Cape	National Health Laboratory service
+SRR17006794	427	77208963	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-06	10	K026628	KwaZulu-Natal	National Health Laboratory service
+SRR17006796	424	35730733	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-07	10	K026626	KwaZulu-Natal	National Health Laboratory service
+SRR17006832	415	85824940	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-21	09	K026740	Gauteng	University of Pretoria
+SRR17006838	419	56882530	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-27	09	K026735	Gauteng	University of Pretoria
+SRR17006840	422	89865773	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-28	09	K026733	Gauteng	University of Pretoria
+SRR17006847	418	41448270	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026727	Eastern Cape	National Health Laboratory service
+SRR17006852	414	104013987	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-23	09	K026700	Eastern Cape	National Health Laboratory service
+SRR17006856	411	77781571	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-23	09	K026697	Eastern Cape	National Health Laboratory service
+SRR17006859	414	91501799	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-23	09	K026694	Eastern Cape	National Health Laboratory service
+SRR17006860	417	70041938	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026693	Eastern Cape	National Health Laboratory service
+SRR17006861	414	59040756	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-24	09	K026692	Eastern Cape	National Health Laboratory service
+SRR17006865	431	128077009	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-27	09	K026572	KwaZulu-Natal	National Health Laboratory service
+SRR17006867	414	66719449	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026687	Eastern Cape	National Health Laboratory service
+SRR17006872	413	94618055	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026682	Eastern Cape	National Health Laboratory service
+SRR17006873	408	88366810	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-23	09	K026681	Eastern Cape	National Health Laboratory service
+SRR17051933	316	91045799	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-20	11	CERI-KRISP-K032244	Gauteng	National Health Laboratory Service
+SRR17088897	325	127416152	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-18	11	K032262	KwaZulu-Natal	National Health Laboratory Service
+SRR17014949	324	72991357	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-04	11	K027874	KwaZulu-Natal	National Health Laboratory Service
+SRR17024204	416	84729995	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-07	10	K026896	Gauteng	National Health Laboratory service
+SRR17041371	275	95181054	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-12	11	K030842	Gauteng	National Health Laboratory Service
+SRR17051912	310	28562737	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-19	11	CERI-KRISP-K032218	Gauteng	National Health Laboratory Service
+SRR17051924	307	24431265	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-18	11	CERI-KRISP-K032206	Gauteng	National Health Laboratory Service
+SRR17051926	298	54292592	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-17	11	CERI-KRISP-K032204	Gauteng	National Health Laboratory Service
+SRR17051948	297	41374235	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-22	11	CERI-KRISP-K032230	Gauteng	National Health Laboratory Service
+SRR17051953	305	46799888	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-19	11	CERI-KRISP-K032225	Gauteng	National Health Laboratory Service
+SRR17054502	321	36336172	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-18	11	CERI-KRISP-K032274	KwaZulu-Natal	National Health Laboratory Service
+SRR17054506	324	46741194	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-23	11	CERI-KRISP-K032287	KwaZulu-Natal	National Health Laboratory Service
+SRR17138841	325	55530252	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-24	11	K032395	KwaZulu-Natal	National Health Laboratory Service
+SRR17138842	314	26786652	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-23	11	K032394	KwaZulu-Natal	National Health Laboratory Service
+SRR17138843	317	34206144	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-24	11	K032393	KwaZulu-Natal	National Health Laboratory Service
+SRR17138844	310	37896843	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-24	11	K032392	KwaZulu-Natal	National Health Laboratory Service
+SRR17138845	317	38372799	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-23	11	K032391	KwaZulu-Natal	National Health Laboratory Service
+SRR17138846	311	46473827	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-24	11	K032427	KwaZulu-Natal	National Health Laboratory Service
+SRR17138847	319	35816246	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-25	11	K032426	KwaZulu-Natal	National Health Laboratory Service
+SRR17138848	326	35469825	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-24	11	K032390	KwaZulu-Natal	National Health Laboratory Service
+SRR17138849	323	38879018	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-26	11	K032425	KwaZulu-Natal	National Health Laboratory Service
+SRR17006650	438	121353191	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-06	10	K026612	KwaZulu-Natal	National Health Laboratory service
+SRR17006657	427	128467233	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-08	10	K026606	KwaZulu-Natal	National Health Laboratory service
+SRR17006663	418	37096447	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-06	10	K026600	KwaZulu-Natal	National Health Laboratory service
+SRR17006670	443	77776676	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-01	10	K026784	Gauteng	National Health Laboratory service
+SRR17006678	437	59091178	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-15	09	K026777	Gauteng	University of Pretoria
+SRR17006728	444	36653329	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-07	10	K026644	Eastern Cape	National Health Laboratory service
+SRR17006737	451	61631523	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-07	10	K026592	KwaZulu-Natal	National Health Laboratory service
+SRR17006747	275	1260961	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-06	10	K026583	KwaZulu-Natal	National Health Laboratory service
+SRR17006759	407	30201439	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-23	09	K026719	Eastern Cape	National Health Laboratory service
+SRR17006845	423	185849186	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-28	09	K026576	KwaZulu-Natal	National Health Laboratory service
+SRR17006641	434	33885521	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-07	10	K026620	KwaZulu-Natal	National Health Laboratory service
+SRR17006707	404	117290126	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-11	10	K026664	Eastern Cape	National Health Laboratory service
+SRR17006739	420	11781919	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-07	10	K026590	KwaZulu-Natal	National Health Laboratory service
+SRR17006744	425	83374794	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-06	10	K026586	KwaZulu-Natal	National Health Laboratory service
+SRR17006765	416	66683522	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026714	Eastern Cape	National Health Laboratory service
+SRR17006786	464	118966744	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-11	10	K026635	Eastern Cape	National Health Laboratory service
+SRR17006810	424	148988922	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-16	09	K026759	Mpumalanga	University of Pretoria
+SRR17006841	432	72793267	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-29	09	K026732	Gauteng	University of Pretoria
+SRR17006653	433	53085528	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-11	10	K026609	KwaZulu-Natal	National Health Laboratory service
+SRR17006688	415	12692925	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-16	09	K026768	Gauteng	University of Pretoria
+SRR17006701	406	84479587	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-08	10	K026669	Eastern Cape	National Health Laboratory service
+SRR17006703	412	95273862	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-08	10	K026668	Eastern Cape	National Health Laboratory service
+SRR17006709	423	83157574	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-13	10	K026662	Eastern Cape	National Health Laboratory service
+SRR17006740	425	83901687	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-07	10	K026589	KwaZulu-Natal	National Health Laboratory service
+SRR17006764	409	87526461	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026715	Eastern Cape	National Health Laboratory service
+SRR17006826	419	56510683	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-18	09	K026746	Gauteng	University of Pretoria
+SRR17006844	419	91217970	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-29	09	K026729	Gauteng	University of Pretoria
+SRR17051895	299	91446882	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-15	11	CERI-KRISP-K032199	Gauteng	National Health Laboratory Service
+SRR17051896	305	49612895	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-14	11	CERI-KRISP-K032198	Gauteng	National Health Laboratory Service
+SRR17051897	308	45190516	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-15	11	CERI-KRISP-K032197	Gauteng	National Health Laboratory Service
+SRR17051898	302	59750732	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-22	11	CERI-KRISP-K032254	Gauteng	National Health Laboratory Service
+SRR17051899	300	39076645	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-15	11	CERI-KRISP-K032196	Gauteng	National Health Laboratory Service
+SRR17051901	295	76651263	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-22	11	CERI-KRISP-K032252	Gauteng	National Health Laboratory Service
+SRR17051902	307	80831422	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-22	11	CERI-KRISP-K032251	Gauteng	National Health Laboratory Service
+SRR17051903	305	113800566	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-22	11	CERI-KRISP-K032250	Gauteng	National Health Laboratory Service
+SRR17051906	287	47359129	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-19	11	CERI-KRISP-K032247	Gauteng	National Health Laboratory Service
+SRR17051907	303	81269916	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-19	11	CERI-KRISP-K032246	Gauteng	National Health Laboratory Service
+SRR17051908	306	61921634	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-17	11	CERI-KRISP-K032191	Gauteng	National Health Laboratory Service
+SRR17051909	302	89878174	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-19	11	CERI-KRISP-K032221	Gauteng	National Health Laboratory Service
+SRR17051911	305	60767824	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-19	11	CERI-KRISP-K032219	Gauteng	National Health Laboratory Service
+SRR17051913	304	56763222	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-19	11	CERI-KRISP-K032217	Gauteng	National Health Laboratory Service
+SRR17051914	310	73241176	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-17	11	CERI-KRISP-K032216	Gauteng	National Health Laboratory Service
+SRR17051915	299	91594234	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-19	11	CERI-KRISP-K032215	Gauteng	National Health Laboratory Service
+SRR17051916	303	83706839	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-17	11	CERI-KRISP-K032214	Gauteng	National Health Laboratory Service
+SRR17051917	305	52188682	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-18	11	CERI-KRISP-K032212	Gauteng	National Health Laboratory Service
+SRR17051918	303	68314966	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-18	11	CERI-KRISP-K032211	Gauteng	National Health Laboratory Service
+SRR17051920	300	85304529	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-18	11	CERI-KRISP-K032210	Gauteng	National Health Laboratory Service
+SRR17051921	294	58242570	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-18	11	CERI-KRISP-K032209	Gauteng	National Health Laboratory Service
+SRR17051923	306	54571707	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-18	11	CERI-KRISP-K032207	Gauteng	National Health Laboratory Service
+SRR17051925	301	55250597	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-18	11	CERI-KRISP-K032205	Gauteng	National Health Laboratory Service
+SRR17051927	310	62466366	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-16	11	CERI-KRISP-K032203	Gauteng	National Health Laboratory Service
+SRR17051928	302	54388002	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-16	11	CERI-KRISP-K032202	Gauteng	National Health Laboratory Service
+SRR17051929	297	77235546	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-16	11	CERI-KRISP-K032201	Gauteng	National Health Laboratory Service
+SRR17051930	302	58841833	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-17	11	CERI-KRISP-K032189	Gauteng	National Health Laboratory Service
+SRR17051931	306	33236502	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-17	11	CERI-KRISP-K032188	Gauteng	National Health Laboratory Service
+SRR17051932	309	57537306	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-20	11	CERI-KRISP-K032245	Gauteng	National Health Laboratory Service
+SRR17051934	307	40719651	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-15	11	CERI-KRISP-K032195	Gauteng	National Health Laboratory Service
+SRR17051935	310	17722031	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-20	11	CERI-KRISP-K032243	Gauteng	National Health Laboratory Service
+SRR17051936	311	27980872	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-20	11	CERI-KRISP-K032242	Gauteng	National Health Laboratory Service
+SRR17051938	303	57278580	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-22	11	CERI-KRISP-K032239	Gauteng	National Health Laboratory Service
+SRR17051939	312	58243026	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-22	11	CERI-KRISP-K032238	Gauteng	National Health Laboratory Service
+SRR17051940	309	41831948	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-21	11	CERI-KRISP-K032237	Gauteng	National Health Laboratory Service
+SRR17051941	296	41249414	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-19	11	CERI-KRISP-K032236	Gauteng	National Health Laboratory Service
+SRR17051942	290	116713079	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-22	11	CERI-KRISP-K032235	Gauteng	National Health Laboratory Service
+SRR17051946	307	60756534	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-22	11	CERI-KRISP-K032232	Gauteng	National Health Laboratory Service
+SRR17051949	301	64167595	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-19	11	CERI-KRISP-K032229	Gauteng	National Health Laboratory Service
+SRR17051950	308	33711706	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-19	11	CERI-KRISP-K032228	Gauteng	National Health Laboratory Service
+SRR17051951	304	69899994	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-19	11	CERI-KRISP-K032227	Gauteng	National Health Laboratory Service
+SRR17051952	300	78012743	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-19	11	CERI-KRISP-K032226	Gauteng	National Health Laboratory Service
+SRR17051955	297	42708754	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-19	11	CERI-KRISP-K032222	Gauteng	National Health Laboratory Service
+SRR17054503	327	164800365	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-19	11	CERI-KRISP-K032271	KwaZulu-Natal	National Health Laboratory Service
+SRR17054507	327	151163519	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-23	11	CERI-KRISP-K032286	KwaZulu-Natal	National Health Laboratory Service
+SRR17054509	327	145859044	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-23	11	CERI-KRISP-K032284	KwaZulu-Natal	National Health Laboratory Service
+SRR17054510	321	165247476	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-22	11	CERI-KRISP-K032283	KwaZulu-Natal	National Health Laboratory Service
+SRR17024199	431	30258419	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-08	10	K026901	Gauteng	National Health Laboratory service
+SRR17024200	416	19699271	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-06	10	K026900	Gauteng	National Health Laboratory service
+SRR17024202	412	59784893	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-06	10	K026898	Gauteng	National Health Laboratory service
+SRR17026786	314	34117929	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-25	10	K027296	KwaZulu-Natal	National Health Laboratory Service
+SRR17026787	312	53640233	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-25	10	K027295	KwaZulu-Natal	National Health Laboratory Service
+SRR17026790	321	31157463	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-24	10	K027292	KwaZulu-Natal	National Health Laboratory Service
+SRR17026791	332	66026656	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-20	10	K027318	KwaZulu-Natal	National Health Laboratory Service
+SRR17026792	311	45680794	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-24	10	K027291	KwaZulu-Natal	National Health Laboratory Service
+SRR17026793	324	81092512	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-25	10	K027317	KwaZulu-Natal	National Health Laboratory Service
+SRR17026794	325	69085092	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-25	10	K027316	KwaZulu-Natal	National Health Laboratory Service
+SRR17026795	325	74830374	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-22	10	K027315	KwaZulu-Natal	National Health Laboratory Service
+SRR17026801	316	60419600	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-20	10	K027309	KwaZulu-Natal	National Health Laboratory Service
+SRR17026802	324	68469891	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-20	10	K027308	KwaZulu-Natal	National Health Laboratory Service
+SRR17026803	312	31713867	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-23	10	K027290	KwaZulu-Natal	National Health Laboratory Service
+SRR17026805	326	43836618	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-21	10	K027306	KwaZulu-Natal	National Health Laboratory Service
+SRR17026806	323	80748500	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-21	10	K027305	KwaZulu-Natal	National Health Laboratory Service
+SRR17026808	317	55730934	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-22	10	K027303	KwaZulu-Natal	National Health Laboratory Service
+SRR17026809	329	39413697	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-22	10	K027302	KwaZulu-Natal	National Health Laboratory Service
+SRR17026812	323	53885870	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-20	10	K027299	KwaZulu-Natal	National Health Laboratory Service
+SRR17026813	320	32665188	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-25	10	K027298	KwaZulu-Natal	National Health Laboratory Service
+SRR17026814	323	55992547	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-23	10	K027289	KwaZulu-Natal	National Health Laboratory Service
+SRR17014931	316	86701824	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-29	10	K027890	KwaZulu-Natal	National Health Laboratory Service
+SRR17014943	283	27792544	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-28	10	K027879	KwaZulu-Natal	National Health Laboratory Service
+SRR17014956	252	15237989	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-07	11	K027867	KwaZulu-Natal	National Health Laboratory Service
+SRR17014964	286	18095268	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-05	11	K027860	KwaZulu-Natal	National Health Laboratory Service
+SRR17014966	289	26935713	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-02	11	K027858	KwaZulu-Natal	National Health Laboratory Service
+SRR17014967	327	60886081	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-03	11	K027857	KwaZulu-Natal	National Health Laboratory Service
+SRR17088899	325	196186150	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-18	11	K032260	KwaZulu-Natal	National Health Laboratory Service
+SRR17088904	319	58734181	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-23	11	K032289	KwaZulu-Natal	National Health Laboratory Service
+SRR17088905	332	47476134	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-23	11	K032288	KwaZulu-Natal	National Health Laboratory Service
+SRR17088918	330	74242901	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-18	11	K032276	KwaZulu-Natal	National Health Laboratory Service
+SRR17088921	321	36336172	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-18	11	K032274	KwaZulu-Natal	National Health Laboratory Service
+SRR17088922	327	175420835	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-21	11	K032273	KwaZulu-Natal	National Health Laboratory Service
+SRR17090368	312	40529595	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-22	10	K027443	Gauteng	National Health Laboratory Service
+SRR17090371	329	72856326	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-22	10	K027440	Gauteng	National Health Laboratory Service
+SRR17090374	316	41147722	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-23	10	K027455	Gauteng	National Health Laboratory Service
+SRR17090375	319	66761866	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-22	10	K027454	Gauteng	National Health Laboratory Service
+SRR17090377	353	52723621	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-20	10	K027452	Gauteng	National Health Laboratory Service
+SRR17090382	308	29995408	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-20	10	K027447	Gauteng	National Health Laboratory Service
+SRR17024201	416	63827519	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-07	10	K026899	Gauteng	National Health Laboratory service
+SRR17026785	321	46316808	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-25	10	K027297	KwaZulu-Natal	National Health Laboratory Service
+SRR17026788	313	61798927	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-25	10	K027294	KwaZulu-Natal	National Health Laboratory Service
+SRR17026789	324	68763170	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-25	10	K027293	KwaZulu-Natal	National Health Laboratory Service
+SRR17026796	323	43111440	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-22	10	K027314	KwaZulu-Natal	National Health Laboratory Service
+SRR17026797	313	81669524	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-21	10	K027313	KwaZulu-Natal	National Health Laboratory Service
+SRR17026811	323	35146670	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-25	10	K027300	KwaZulu-Natal	National Health Laboratory Service
+SRR17014933	292	25511387	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-28	10	K027888	KwaZulu-Natal	National Health Laboratory Service
+SRR17014948	320	61380353	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-04	11	K027875	KwaZulu-Natal	National Health Laboratory Service
+SRR17014961	262	21541084	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-03	11	K027863	KwaZulu-Natal	National Health Laboratory Service
+SRR17014968	320	52462458	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-08	11	K027856	KwaZulu-Natal	National Health Laboratory Service
+SRR17014892	320	59104899	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-08	11	K027854	KwaZulu-Natal	National Health Laboratory Service
+SRR17014939	268	30221445	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-29	10	K027883	KwaZulu-Natal	National Health Laboratory Service
+SRR17051910	301	32096104	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-19	11	CERI-KRISP-K032220	Gauteng	National Health Laboratory Service
+SRR17051954	300	79293415	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-19	11	CERI-KRISP-K032223	Gauteng	National Health Laboratory Service
+SRR17026804	318	40075881	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-22	10	K027307	KwaZulu-Natal	National Health Laboratory Service
+SRR17026815	322	75491636	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-21	10	K027288	KwaZulu-Natal	National Health Laboratory Service
+SRR17041370	273	63546987	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-12	11	K030843	Gauteng	National Health Laboratory Service
+SRR17088928	324	51766808	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-19	11	K032267	KwaZulu-Natal	National Health Laboratory Service
+SRR17088929	307	60406903	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-19	11	K032266	KwaZulu-Natal	National Health Laboratory Service
+SRR17041378	271	75323671	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-12	11	K030835	Gauteng	National Health Laboratory Service
+SRR17088923	318	58480320	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-20	11	K032272	KwaZulu-Natal	National Health Laboratory Service
+SRR17051945	301	87183597	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-16	11	CERI-KRISP-K032192	Gauteng	National Health Laboratory Service
+SRR17054504	324	112277331	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-19	11	CERI-KRISP-K032258	KwaZulu-Natal	National Health Laboratory Service
+SRR17090380	333	87808819	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-19	10	K027449	Gauteng	National Health Laboratory Service
+SRR17090381	321	92268121	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-18	10	K027448	Gauteng	National Health Laboratory Service
+SRR17088907	327	151163519	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-23	11	K032286	KwaZulu-Natal	National Health Laboratory Service
+SRR17024203	422	17415198	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-06	10	K026897	Gauteng	National Health Laboratory service
+SRR17024206	416	63005504	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-10	10	K026894	Gauteng	National Health Laboratory service
+SRR17014930	312	65039686	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-29	10	K027891	KwaZulu-Natal	National Health Laboratory Service
+SRR17051905	303	99365063	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-21	11	CERI-KRISP-K032248	Gauteng	National Health Laboratory Service
+SRR17138850	329	45006461	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-25	11	K032424	KwaZulu-Natal	National Health Laboratory Service
+SRR17138851	329	77159891	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-27	11	K032423	KwaZulu-Natal	National Health Laboratory Service
+SRR17138852	312	36678053	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-26	11	K032422	KwaZulu-Natal	National Health Laboratory Service
+SRR17138853	312	53764067	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-25	11	K032421	KwaZulu-Natal	National Health Laboratory Service
+SRR17138854	311	36946225	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-24	11	K032420	KwaZulu-Natal	National Health Laboratory Service
+SRR17138855	312	41851097	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-26	11	K032419	KwaZulu-Natal	National Health Laboratory Service
+SRR17138856	324	63650111	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-26	11	K032418	KwaZulu-Natal	National Health Laboratory Service
+SRR17138857	327	39727280	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-27	11	K032417	KwaZulu-Natal	National Health Laboratory Service
+SRR17138858	313	38216669	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-26	11	K032416	KwaZulu-Natal	National Health Laboratory Service
+SRR17138859	325	34267598	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-23	11	K032389	KwaZulu-Natal	National Health Laboratory Service
+SRR17138860	314	40717799	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-26	11	K032415	KwaZulu-Natal	National Health Laboratory Service
+SRR17138861	312	25446923	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-25	11	K032414	KwaZulu-Natal	National Health Laboratory Service
+SRR17138862	321	43492401	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-25	11	K032413	KwaZulu-Natal	National Health Laboratory Service
+SRR17138863	324	59909816	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-26	11	K032412	KwaZulu-Natal	National Health Laboratory Service
+SRR17138864	328	58325403	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-25	11	K032411	KwaZulu-Natal	National Health Laboratory Service
+SRR17138865	324	55226966	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-24	11	K032410	KwaZulu-Natal	National Health Laboratory Service
+SRR17138866	309	53557305	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-24	11	K032409	KwaZulu-Natal	National Health Laboratory Service
+SRR17138867	323	34438917	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-24	11	K032408	KwaZulu-Natal	National Health Laboratory Service
+SRR17138868	309	41817604	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-24	11	K032407	KwaZulu-Natal	National Health Laboratory Service
+SRR17138869	310	36534888	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-25	11	K032406	KwaZulu-Natal	National Health Laboratory Service
+SRR17138870	327	49740245	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-24	11	K032388	KwaZulu-Natal	National Health Laboratory Service
+SRR17138871	309	35196524	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-23	11	K032405	KwaZulu-Natal	National Health Laboratory Service
+SRR17138872	308	32683085	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-23	11	K032404	KwaZulu-Natal	National Health Laboratory Service
+SRR17138873	304	38953284	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-23	11	K032403	KwaZulu-Natal	National Health Laboratory Service
+SRR17138874	316	29696887	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-23	11	K032402	KwaZulu-Natal	National Health Laboratory Service
+SRR17138875	326	59974115	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-25	11	K032401	KwaZulu-Natal	National Health Laboratory Service
+SRR17138876	326	44891458	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-24	11	K032400	KwaZulu-Natal	National Health Laboratory Service
+SRR17138877	315	44142400	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-23	11	K032399	KwaZulu-Natal	National Health Laboratory Service
+SRR17138878	322	20930855	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-24	11	K032398	KwaZulu-Natal	National Health Laboratory Service
+SRR17138879	309	47595812	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-23	11	K032397	KwaZulu-Natal	National Health Laboratory Service
+SRR17138880	307	37943695	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-23	11	K032396	KwaZulu-Natal	National Health Laboratory Service
+SRR17138881	306	50151487	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-23	11	K032387	KwaZulu-Natal	National Health Laboratory Service
+SRR17138882	307	51264896	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-24	11	K032386	KwaZulu-Natal	National Health Laboratory Service
+SRR17006644	423	26989861	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-06	10	K026618	KwaZulu-Natal	National Health Laboratory service
+SRR17006683	429	93725953	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-15	09	K026772	Gauteng	University of Pretoria
+SRR17006713	423	74848789	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-12	10	K026658	Eastern Cape	National Health Laboratory service
+SRR17006732	451	56919823	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-11	10	K026597	KwaZulu-Natal	National Health Laboratory service
+SRR17006733	442	82495522	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-08	10	K026596	KwaZulu-Natal	National Health Laboratory service
+SRR17006742	427	16595912	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-06	10	K026588	KwaZulu-Natal	National Health Laboratory service
+SRR17006864	415	19856854	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026689	Eastern Cape	National Health Laboratory service
+SRR17006868	415	66191856	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026686	Eastern Cape	National Health Laboratory service
+SRR17006666	430	126706484	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-28	09	K026788	Gauteng	National Health Laboratory service
+SRR17006672	430	121146849	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-27	09	K026782	Gauteng	National Health Laboratory service
+SRR17006700	421	110562820	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-08	10	K026670	Eastern Cape	National Health Laboratory service
+SRR17006711	419	75800257	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-13	10	K026660	Eastern Cape	National Health Laboratory service
+SRR17006809	392	59679501	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-16	09	K026760	Mpumalanga	University of Pretoria
+SRR17006837	412	12731161	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-27	09	K026736	Gauteng	University of Pretoria
+SRR17006870	416	69347922	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026684	Eastern Cape	National Health Laboratory service
+SRR17006662	466	98768818	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-06	10	K026601	KwaZulu-Natal	National Health Laboratory service
+SRR17006784	446	75521791	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-11	10	K026637	Eastern Cape	National Health Laboratory service
+SRR17006851	413	102953046	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-23	09	K026701	Eastern Cape	National Health Laboratory service
+SRR17014929	309	61399844	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-29	10	K027892	KwaZulu-Natal	National Health Laboratory Service
+SRR17026799	339	51273843	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-21	10	K027311	KwaZulu-Natal	National Health Laboratory Service
+SRR17041376	279	63622299	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-12	11	K030837	Gauteng	National Health Laboratory Service
+SRR17088915	328	57662307	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-19	11	K032279	KwaZulu-Natal	National Health Laboratory Service
+SRR17054508	312	49033049	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-23	11	CERI-KRISP-K032285	KwaZulu-Natal	National Health Laboratory Service
+SRR17090369	313	63584709	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-22	10	K027442	Gauteng	National Health Laboratory Service
+SRR17088902	307	34440984	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-23	11	K032291	KwaZulu-Natal	National Health Laboratory Service
+SRR17088911	321	165247476	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-22	11	K032283	KwaZulu-Natal	National Health Laboratory Service
+SRR17088924	327	164800365	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-19	11	K032271	KwaZulu-Natal	National Health Laboratory Service
+SRR17024205	277	3483367	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-06	10	K026895	Gauteng	National Health Laboratory service
+SRR17051937	300	89762596	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-20	11	CERI-KRISP-K032241	Gauteng	National Health Laboratory Service
+SRR17051943	299	36363608	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-22	11	CERI-KRISP-K032234	Gauteng	National Health Laboratory Service
+SRR17051919	292	77718648	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-17	11	CERI-KRISP-K032190	Gauteng	National Health Laboratory Service
+SRR17051922	299	78330602	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-18	11	CERI-KRISP-K032208	Gauteng	National Health Laboratory Service
+SRR17090379	321	93934116	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-21	10	K027450	Gauteng	National Health Laboratory Service
+SRR17006659	434	101621700	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-07	10	K026604	KwaZulu-Natal	National Health Laboratory service
+SRR17006723	428	75404915	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-02	10	K026568	KwaZulu-Natal	National Health Laboratory service
+SRR17006755	415	73839715	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-21	09	K026723	Eastern Cape	National Health Laboratory service
+SRR17006827	192	697359	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-18	09	K026745	Gauteng	University of Pretoria
+SRR17006828	210	523029	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-19	09	K026744	Gauteng	University of Pretoria
+SRR17006831	438	54453018	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-20	09	K026741	Gauteng	University of Pretoria
+SRR17006833	428	48414849	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026739	Gauteng	University of Pretoria
+SRR17006853	413	89437284	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026699	Eastern Cape	National Health Laboratory service
+SRR17014962	318	64421797	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-05	11	K027862	KwaZulu-Natal	National Health Laboratory Service
+SRR17026798	332	75163147	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-21	10	K027312	KwaZulu-Natal	National Health Laboratory Service
+SRR17006679	429	91628317	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-15	09	K026776	Gauteng	University of Pretoria
+SRR17006684	425	133968665	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-15	09	K026771	Gauteng	University of Pretoria
+SRR17006714	420	87603810	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-11	10	K026657	Eastern Cape	National Health Laboratory service
+SRR17006743	423	42106289	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-06	10	K026587	KwaZulu-Natal	National Health Laboratory service
+SRR17006767	416	83686241	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026712	Eastern Cape	National Health Laboratory service
+SRR17006790	433	72123463	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-11	10	K026631	Eastern Cape	National Health Laboratory service
+SRR17006792	415	12458531	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-12	10	K026629	Eastern Cape	National Health Laboratory service
+SRR17006812	430	114259279	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-01	10	K026561	KwaZulu-Natal	National Health Laboratory service
+SRR17006823	466	66997092	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-28	09	K026578	KwaZulu-Natal	National Health Laboratory service
+SRR17014944	323	42181962	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-30	10	K027878	KwaZulu-Natal	National Health Laboratory Service
+SRR17014955	261	34712596	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-08	11	K027868	KwaZulu-Natal	National Health Laboratory Service
+SRR17014960	262	27937139	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-03	11	K027864	KwaZulu-Natal	National Health Laboratory Service
+SRR17026800	302	30128230	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-20	10	K027310	KwaZulu-Natal	National Health Laboratory Service
+SRR17051900	300	60888268	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-22	11	CERI-KRISP-K032253	Gauteng	National Health Laboratory Service
+SRR17088909	324	112277331	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-19	11	K032258	KwaZulu-Natal	National Health Laboratory Service
+SRR17090384	317	75208954	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-21	10	K027437	KwaZulu-Natal	National Health Laboratory Service
+SRR17006656	432	65650770	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-09	10	K026607	KwaZulu-Natal	National Health Laboratory service
+SRR17006770	419	85872381	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-22	09	K026709	Eastern Cape	National Health Laboratory service
+SRR17006801	415	79139560	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-11	10	K026621	KwaZulu-Natal	National Health Laboratory service
+SRR17006803	425	34728547	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-09-16	09	K026766	Gauteng	University of Pretoria
+SRR17014965	294	42104737	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-03	11	K027859	KwaZulu-Natal	National Health Laboratory Service
+SRR17026810	325	52346235	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-20	10	K027301	KwaZulu-Natal	National Health Laboratory Service
+SRR17051944	300	69859347	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-22	11	CERI-KRISP-K032233	Gauteng	National Health Laboratory Service
+SRR17051947	310	69956386	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-22	11	CERI-KRISP-K032231	Gauteng	National Health Laboratory Service
+SRR17054505	332	47476134	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-23	11	CERI-KRISP-K032288	KwaZulu-Natal	National Health Laboratory Service
+SRR17006729	418	144711487	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-07	10	K026643	Eastern Cape	National Health Laboratory service
+SRR17014952	298	26085707	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-08	11	K027871	KwaZulu-Natal	National Health Laboratory Service
+SRR17014953	276	22609807	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-07	11	K027870	KwaZulu-Natal	National Health Laboratory Service
+SRR17014934	315	63617283	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-28	10	K027887	KwaZulu-Natal	National Health Laboratory Service
+SRR17014958	293	27284462	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-11-08	11	K027848	KwaZulu-Natal	National Health Laboratory Service
+SRR17051904	303	58164230	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA784038	2021-11-22	11	CERI-KRISP-K032249	Gauteng	National Health Laboratory Service
+SRR17090376	323	41039000	Severe acute respiratory syndrome coronavirus 2	South Africa	PRJNA636748	2021-10-22	10	K027453	Gauteng	National Health Laboratory Service
